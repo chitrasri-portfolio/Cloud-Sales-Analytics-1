@@ -1,0 +1,25 @@
+Order_ID,Date,Product,Category,Region,Quantity,Sales,Profit,Customer_Type,Payment_Method
+1001,2026-01-05,Cloud Storage,Storage,South,12,24000,6000,Business,UPI
+1002,2026-01-08,Cloud Backup,Storage,North,8,16000,4000,Enterprise,Card
+1003,2026-01-12,AI Analytics,Analytics,West,15,45000,12000,Business,UPI
+1004,2026-01-18,Cloud Security,Security,East,10,35000,9000,Enterprise,Bank Transfer
+1005,2026-02-03,Cloud Storage,Storage,North,18,36000,9000,Business,Card
+1006,2026-02-10,AI Analytics,Analytics,South,11,33000,8500,Business,UPI
+1007,2026-02-15,Cloud Security,Security,West,14,49000,13000,Enterprise,Card
+1008,2026-02-22,Cloud Backup,Storage,East,9,18000,4500,Individual,UPI
+1009,2026-03-04,Cloud Storage,Storage,West,20,40000,10000,Business,Bank Transfer
+1010,2026-03-11,AI Analytics,Analytics,North,13,39000,10000,Enterprise,Card
+1011,2026-03-19,Cloud Security,Security,South,16,56000,15000,Enterprise,UPI
+1012,2026-03-27,Cloud Backup,Storage,East,12,24000,6000,Business,Card
+1013,2026-04-02,AI Analytics,Analytics,West,17,51000,14000,Enterprise,Bank Transfer
+1014,2026-04-09,Cloud Storage,Storage,South,22,44000,11000,Business,UPI
+1015,2026-04-18,Cloud Security,Security,North,12,42000,10500,Enterprise,Card
+1016,2026-04-25,Cloud Backup,Storage,West,15,30000,7500,Individual,UPI
+1017,2026-05-06,Cloud Storage,Storage,East,19,38000,9500,Business,Card
+1018,2026-05-14,AI Analytics,Analytics,South,18,54000,14500,Enterprise,UPI
+1019,2026-05-21,Cloud Security,Security,West,13,45500,11500,Business,Bank Transfer
+1020,2026-05-29,Cloud Backup,Storage,North,16,32000,8000,Individual,Card
+1021,2026-06-05,Cloud Storage,Storage,South,24,48000,12000,Business,UPI
+1022,2026-06-12,AI Analytics,Analytics,East,14,42000,11000,Enterprise,Card
+1023,2026-06-20,Cloud Security,Security,North,17,59500,16000,Enterprise,Bank Transfer
+1024,2026-06-28,Cloud Backup,Storage,West,10,20000,5000,Individual,UPI
